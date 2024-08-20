@@ -6,7 +6,7 @@ This software allows you to bypass the parental control of the Freebox.
 
 > [!WARNING]
 > This software is still under development.<br>
-> Please keep in note that I'm not a professional programmer, I only do it for fun 😎
+> Please keep in note that I'm not a professional programmer, I only do it for fun 😎<br>
 > You may encounter unfinished features or bugs...<br>
 > If you come across any issues, please [open an issue](https://github.com/R0M107/Freebox-APC-Software/issues/new) on the GitHub repository.<br>
 
