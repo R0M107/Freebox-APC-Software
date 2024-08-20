@@ -13,6 +13,7 @@ This software allows you to bypass the parental control of the Freebox.
 > [!CAUTION]
 > Please read this before : <br>
 > This software work by changing the MAC Address of the device, so :<br>
+> :computer: It is only compatible with Windows 10/11
 > :unamused: - Some Network Interfaces aren't compatible with changeable MAC Address<br>
 > :signal_strength: - If you are using a WiFi interface, please verify that there is no MAC Whitelist because you will no longer be able to connect to the WiFi network !<br>
 > :warning: - It use [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry) (If something go wrong, it can break your Windows ⚠️) <br>
