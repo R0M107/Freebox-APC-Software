@@ -19,14 +19,12 @@ This software allows you to bypass the parental control of the Freebox.
 > :red_circle: - By using our software, you are fully responsible for any damage that may occur!
 
 ## Installation :hammer_and_wrench:
-
-### Simple installation
-1. Download the [latest release](https://github.com/R0M107/Freebox-APC-Software/releases/latest)
-2. Run it
-
-### Advanced installation
+(Work with Python 3.12.5)
 1. Clone the repository
 2. Run the command : <code>pip install -r ./requirements.txt</code>
 3. Run the <code>main.py</code> file
+
+## Troubleshooting :wrench:
+If you encounter any issues, please check the logs for error messages and [open an issue](https://github.com/R0M107/Freebox-APC-Software/issues/new)
 
 ### Thank You ❤️
